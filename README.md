@@ -1,9 +1,9 @@
-# Kiyo.AI
+# Kiyo.AI (Still in progress)
 
 Link:https://supreme-guacamole-v6954xw9r79wcjvx-3001.app.github.dev/
 
-Kiyo.AI is a self-learning conversational AI designed to grow smarter through continuous interaction.  
-Each conversation contributes to its adaptive intelligence system, allowing the model to retain context and improve response quality over time.
+Kiyo.AI is a self-learning conversational AI designed to grow smarter through interaction with its users.  
+Each conversation contributes to its intelligence system, allowing the model to retain context and improve response quality over time, becoming better and more efficient.
 
 ---
 
